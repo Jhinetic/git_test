@@ -8,6 +8,8 @@ git add  <file> : add to staging (local)   // 1 commit means one snapshot is rea
 
 git log 	: author/modification date (local)
 
+git commit -m "......."  :
+
 
 VSCode Terminal : Ctrl + `
 
