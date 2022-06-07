@@ -1,0 +1,13 @@
+foundation git basics
+
+git remote -v   : check github URL
+
+git status      : check files update satus (modified/staged/commited) or Not
+
+git add  <file> : add to staging (local)   // 1 commit means one snapshot is ready for upload
+
+git log 	: author/modification date (local)
+
+
+VSCode Terminal : Ctrl + `
+
